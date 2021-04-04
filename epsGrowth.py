@@ -1,4 +1,4 @@
-#CALCULATES EARNINGS PER SHARE (EPS) Growth
+#CALCULATES EARNINGS PER SHARE (EPS) GROWTH
 
 # Lists entered as strings as an example of data coming from Google Sheets
 # Empty lists are needed for both strToNum() and calcEPSGrowth() functions 
